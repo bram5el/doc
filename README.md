@@ -1,1 +1,1 @@
-(https://github.com/bram5el/doc/wiki)
+https://github.com/bram5el/doc/wiki
